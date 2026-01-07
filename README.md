@@ -35,3 +35,7 @@ PromptTalk-Generative-AI-Chatbot/
 2. Open Jupyter Notebook
 3. Run PromptTalk.ipynb
 
+## Output 
+
+<img width="653" height="368" alt="Screenshot 2026-01-07 231945" src="https://github.com/user-attachments/assets/ef6f0e7d-addc-4755-8833-21505ac70f65" />
+
