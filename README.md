@@ -36,6 +36,6 @@ PromptTalk-Generative-AI-Chatbot/
 3. Run PromptTalk.ipynb
 
 ## Output 
+<img width="772" height="340" alt="image" src="https://github.com/user-attachments/assets/faf9baae-3e9f-4ae2-a2f0-6705a31f16d3" />
 
-<img width="653" height="368" alt="Screenshot 2026-01-07 231945" src="https://github.com/user-attachments/assets/ef6f0e7d-addc-4755-8833-21505ac70f65" />
 
